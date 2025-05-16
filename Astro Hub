@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/AstroOnTop/AstroHub/refs/heads/main/Source.lua"))()
